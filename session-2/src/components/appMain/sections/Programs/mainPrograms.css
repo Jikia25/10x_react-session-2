@@ -1,0 +1,12 @@
+/* Programs */
+.programs {
+  margin-bottom: 40px;
+}
+
+.program {
+  background: #fff;
+  padding: 20px;
+  margin: 15px 0;
+  border-left: 4px solid #26a69a;
+  border-radius: 5px;
+}

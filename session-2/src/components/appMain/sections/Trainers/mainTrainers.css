@@ -1,0 +1,20 @@
+/* Trainers */
+.trainers {
+  margin-bottom: 40px;
+}
+
+.trainer {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 4px solid #004d40;
+  border-radius: 5px;
+}
+
+.trainer img {
+  width: 60px;
+  border-radius: 50%;
+}
